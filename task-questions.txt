@@ -1,0 +1,26 @@
+*********For Archana********
+so far you have done upto 2x2 averaging
+
+Questions:
+1.Create averaging image for 3x3 (i-1,i,i+1,j-1,j,j+1)
+2. In a grayscale image, use mask of M=[[0 0 0][1 1 1][0 0 0]] multiply with 3x3 from the pic and plot the image
+3. Use different masks(I will tell the masks once you complete 2nd Ques)  
+4. Do convolution and maxpooling on RGB image.
+
+
+*********end*************
+
+task-2
+
+Task 2 for Archana:
+
+
+2a) apply all 12 kernals from the below link and plot all original and convoluted image
+http://aishack.in/tutorials/image-convolution-examples/
+
+
+2b) write a function which takes image as argument and return convoluted image (any kernal).
+
+2c) write 10 functions, each has different kernals from above link and return convoluted image. 
+
+2d) write a code to save all 10 convoluted image in a folder.
